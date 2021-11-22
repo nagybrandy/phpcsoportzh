@@ -36,9 +36,9 @@ A feladat legegyszerűbb megoldásához csak és kizárólag PHP-t kell használ
 
 Nézd meg a két videót az oldal működéséről:
 
-[Az oldal alapvető működése](http://nagybrandy.hu/php_zh01.mp4)
+<a href="http://nagybrandy.hu/php_zh01.mp4" target="_blank">Az oldal alapvető működése</a>
+<a href="http://nagybrandy.hu/php_zh02.mp4" target="_blank">A szűrés</a>
 
-[A szűrés](http://nagybrandy.hu/php_zh02.mp4)
 
 ## Feladatok
 ### <span style="color:green">addoggo.php</span>
