@@ -36,7 +36,7 @@ A feladat legegyszerűbb megoldásához csak és kizárólag PHP-t kell használ
 
 Nézd meg a két videót az oldal működéséről:
 
-<a href="http://nagybrandy.hu/php_zh01.mp4" target="_blank">Az oldal alapvető működése</a>
+<a href="http://nagybrandy.hu/php_zh01.mp4" target="_blank">Az oldal alapvető működése</a><br>
 <a href="http://nagybrandy.hu/php_zh02.mp4" target="_blank">A szűrés</a>
 
 
