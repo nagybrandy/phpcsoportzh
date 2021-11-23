@@ -32,7 +32,7 @@ A feladat legegyszerűbb megoldásához csak és kizárólag PHP-t kell használ
 
 ## Előkészületek
 1. Első lépésként töltsd le github-ról a kiindulófájlokat.
-2. Egészítsd ki a README.md-t. Ebben a fájlban jelöld, hogy ZH mely részeivel készültél el.
+2. Egészítsd ki a README.md-t.
 
 Nézd meg a két videót az oldal működéséről:
 
