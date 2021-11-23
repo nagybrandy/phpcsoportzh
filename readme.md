@@ -2,7 +2,7 @@
 ```
 <Hallgató neve>
 <Neptun kódja>
-Webprogramozás - JavaScript csoport ZH
+Webprogramozás - PHP csoport ZH
 Ezt a megoldást a fent írt hallgató küldte be és készítette 
 a Webprogramozás kurzus JavaScript csoport ZH-jához.
 Kijelentem, hogy ez a megoldás a saját munkám. Nem másoltam vagy 
