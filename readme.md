@@ -45,7 +45,7 @@ Nézd meg a két videót az oldal működéséről:
 |Sorszám|Feladat|Pontok|
 |----|----|----|
 | 1. | Egészítsd ki az oldalon  szereplő formot úgy, hogy az a megfelelő oldalra irányítson olyan metódussal, hogy az adatokat a böngésző keresősávjávan ne lehessen változtatni! | <span style="color:red"> 0.5 pont </span>
-| 2.| Nézd meg, hogy a formban szereplő inputok attribútumait, mert ezzel fogod tudni megkapni a requesttel az isvalid.php-ban a beírt adatokat. Minden inputmezőből ugyanúgy tudjuk lekérni az adatot, ahogy órán csináltuk.   ||
+| 2.| Nézd meg a formban szereplő inputok attribútumait, mert ezzel fogod tudni megkapni a requesttel az isvalid.php-ban a beírt adatokat. Minden inputmezőből ugyanúgy tudjuk lekérni az adatot, ahogy órán csináltuk.   ||
 
 ### <span style="color:green">isvalid.php</span>
 |Sorszám|Feladat|Pontok|
